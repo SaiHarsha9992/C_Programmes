@@ -1,2 +1,2 @@
-# C_Programmes
-I am Uploading C Programes to know how many programes i do.  
+# C_programs
+i write codes to know how many programs i do ;
